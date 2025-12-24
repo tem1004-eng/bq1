@@ -1,0 +1,5 @@
+{
+  "name": "Bible Crossword Master",
+  "description": "A beautiful and interactive Bible crossword puzzle generator that lets you choose by Bible book or theme, powered by Gemini.",
+  "requestFramePermissions": []
+}
